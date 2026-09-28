@@ -1,2 +1,0 @@
-# plantvault-privacy
-plantvault-privacy
